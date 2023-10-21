@@ -422,7 +422,7 @@ section {
 .portfolios .portfolio-item .hover-items {
   width: 100%;
   height: 100%;
-  background-color: var(--color-secondary);
+  background-color: #5c2ae5c4;
   position: absolute;
   left: 0;
   top: 0;
